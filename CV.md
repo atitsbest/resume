@@ -140,7 +140,7 @@ _Junior Software Engineer_
 
 - Mostly in C#.
 - Started with Version 1.1, now .net Core 3.x
-- Really liked the path C# took, from Generics (that's a must), LINQ (declarative querying), nice async handling (all over the place now).
+- Liked the path C# took, from Generics (that's a must), LINQ (declarative querying), nice async handling (all over the place now).
 
 ### ASP.NET
 
