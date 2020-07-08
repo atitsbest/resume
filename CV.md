@@ -26,6 +26,7 @@ _Some customers I have worked with (alphabetical order):_
 - Executed company-wide onboarding web app, for UX and development.
 - Oversaw development and deployment of the onboarding app.
 - Developed frontend for large scale React.js web app, handling TBs of data on the backend.
+- Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
 
 ### Felbermayr:
 
