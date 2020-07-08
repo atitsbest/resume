@@ -23,16 +23,15 @@ _Some customers I have worked with (alphabetical order):_
 
 ### Daimler
 
-- Executed company-wide onboarding app, for UX and development.
+- Executed company-wide onboarding web app, for UX and development.
 - Oversaw development and deployment of the onboarding app.
-- Developed frontend for large scale web app, handling TBs of data.
+- Developed frontend for large scale React.js web app, handling TBs of data on the backend.
 
 ### Felbermayr:
 
 - Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
-- Build a fully automated CI/CD pipelines for new and existing projects.
-- Designed and developed a mobile App and the inherent WebService using Docker.
-- Cooperate with KPMG to plan/ex
+- Build a fully automated CI/CD pipeline for new and existing projects.
+- Designed and developed a mobile App using Flutter and the inherent WebService using Docker for linux.
 
 ### Liebherr
 
@@ -69,7 +68,7 @@ _Some customers I have worked with (alphabetical order):_
 
 ### Doppelmayr
 
-- Headed a project to simulate big industrial facilities. Delivered the working software after multiple tries from other companies.
+- Headed a project to simulate big industrial facilities. Delivered the working software after other companies failed.
 
 ### Intersport
 
