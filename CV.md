@@ -108,14 +108,14 @@ _Junior Software Engineer_
 
 - Mentored interns, junior and senior developers to develop their skills.
 - Conducted workshops for modern web development (backend and frontend).
-- Executed Requirements engineering workshops for a solid specification.
+- Executed Requirements engineering workshops for solid specifications.
 
 ## Frontend
 
 ### React.js
 
+- Analyzed other frontend libs/frameworks and choose the React.js - Typescript combination for its type-checked views.
 - Learned that react.js with context and hooks is now "complete" and does not need much extra state management.
-- Avoided Redux for most projects because of the restrictions it implies and did not need the benefits of it.
 - Accelerated SPA development by curating an efficient set of libs and conventions around React.js.
 
 ### Typescript
@@ -128,7 +128,7 @@ _Junior Software Engineer_
 
 ### Flutter
 
-- I'm always skeptical about (leaky) abstractions, but Flutter works and it is nice to have one code to rule them all.
+- Evaluated Xamarin and React Native but chose Flutter for its joy of usage (I'm always skeptical about (leaky) abstractions, but Flutter works and it is nice to have one code to rule them all.)
 
 ### Deprecated
 
