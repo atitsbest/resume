@@ -1,7 +1,7 @@
 # Stephan Meißner
 
 I have been around for some time engineering and shipping software, working with may customers of different domains.
-I love forming a team for the task at hand, not only managing bits but also humans (as big problems are mostly not technicaly in nature).
+I love forming a team for the task at hand, not only managing bits but also humans (as big problems are mostly not technical).
 
 # Experience
 
@@ -9,41 +9,41 @@ I love forming a team for the task at hand, not only managing bits but also huma
 
 _Development Manager (project work)_
 
-- Pioneered/Contributed to Open Source Software on github (https://github.com/DCCS-IT-Business-Solutions) resulting in reduced costs and motivated software engineers.
+- Pioneered/Contributed to Open Source Software on GitHub (https://github.com/DCCS-IT-Business-Solutions) resulting in reduced costs and motivated software engineers.
 
-- Established knowledge exchange accross multiple teams using recurrent meetings and workshops
+- Established knowledge exchange across multiple teams using recurrent meetings and workshops
 
 - Initiated and fostered internship resulting in a 90% return rate of interns (and some terrific new colleagues).
 
 - Advised numerous customers on modern web development (frontend and backend)
 
-- Supported sales a lot in pre-sales phase.
+- Supported sales a lot in the pre-sales phase.
 
 _Some customers I have worked with (alphabetical order):_
 
 ### Daimler
 
-- Executed company wide onboarding app, for UX and development.
-- Oversaw development and deployment of onbording app.
+- Executed company-wide onboarding app, for UX and development.
+- Oversaw development and deployment of the onboarding app.
 - Developed frontend for large scale web app, handling TBs of data.
 
 ### Felbermayr:
 
 - Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
-- Build fully automated CI/CD pipelines for new and existing projects.
-- Designed and developed mobile App and the inherent webservice using Docker.
+- Build a fully automated CI/CD pipelines for new and existing projects.
+- Designed and developed a mobile App and the inherent WebService using Docker.
 - Cooperate with KPMG to plan/ex
 
 ### Liebherr
 
 - Executed Requirements Engineering Workshops spaning employees from multiple locations.
-- Architectured Software to integrate into existing Software landscape.
+- Architectured Software to integrate into the existing Software landscape.
 
-### Merceds Benz Financial Services
+### Mercedes Benz Financial Services
 
-- Oversaw transfer of existing project (calculate financial products) from near shoring team.
+- Oversaw transfer of an existing project (calculate financial products) from a nearshoring team.
 - Designed UI proposal for "sales of the future" project using react.js.
-- Diagnosed blocking non technical issues and helped resolve them in multiple workshops with the customer.
+- Diagnosed blocking nontechnical issues and helped resolve them in multiple workshops with the customer.
 
 ### Trodat:
 
@@ -52,9 +52,9 @@ _Some customers I have worked with (alphabetical order):_
 
 ### Veritas
 
-- Provisioned an scaleable and resilient infrastructure (Amazon AWS) utilizing Docker und Fargate.
-- Build fully automated CI/CD pipeline using BitBucket and AWS CodeBuild and CodePipeline.
-- Consulted on Domain Driven Design for upcomming large scale project.
+- Provisioned a scalable and resilient infrastructure (Amazon AWS) utilizing Docker and Fargate (and VPC, Subnets, VPN, SQS, Lambda Functions, ...).
+- Build a fully automated CI/CD pipeline using BitBucket and AWS CodeBuild and CodePipeline.
+- Consulted on Domain Driven Design for an upcoming large scale project.
 - Execute software integration strategy.
 
 ## Infoniqa GmbH 2007 - 2013
@@ -65,16 +65,16 @@ _Some customers I have worked with (alphabetical order):_
 
 ### Case New Holland
 
-- Developed mobile handheld scanner to aid assembly line production using Windows CE scanner devices.
+- Developed a mobile handheld scanner to aid assembly line production using Windows CE scanner devices.
 
 ### Doppelmayr
 
-- Headed a project to simulate big industry facilities. Delivered the working software after multiple tries from other companies.
+- Headed a project to simulate big industrial facilities. Delivered the working software after multiple tries from other companies.
 
 ### Intersport
 
 - Developed Software to aid all members in stocking their stores using ASP.Net MVC and AS400 DB2.
-- Pioneered Single Page App like Web Apps before they where called that way.
+- Pioneered Single Page App like Web Apps before they were called that way.
 
 ### Hauser
 
@@ -89,17 +89,17 @@ _One of two CEOs ;)_
 
 - Developed software to manage real estate offerings using C++ and MFC. Including public online platform to sync to.
 
-- Planned and developed custom ecommerce system using .Net 2. Used in different industries.
+- Planned and developed a custom eCommerce system using .Net 2. Used in different industries.
 
-- Developed software to issue and manage free-ride tickets for students. Used by different states in austria. Developed the banking interface (EDIFACT) to transfer money.
+- Developed software to issue and manage free-ride tickets for students. Used by different states in Austria. Developed the banking interface (EDIFACT) to transfer money.
 
-- Engieered a custom kind of facebook for a customer using ASP.NET WebForms. Translated into 30+ languages. Deployed to multiple countries.
+- Engineered a custom kind of Facebook for a customer using ASP.NET WebForms. Translated in to 30+ languages. Deployed to multiple countries.
 
 ## Funworld 2000 - 20002
 
 _Junior Software Engineer_
 
-- Developed system software libraries as a base for games running on touch based game consoles using C++, custom made Windows and custom made hardware.
+- Developed system software libraries as a base for games running on touch-based game consoles using C++, custom made Windows and custom made hardware.
 
 # Skills
 
@@ -113,7 +113,7 @@ _Junior Software Engineer_
 
 ### React.js
 
-- It's a library not a framework (hello angular).
+- It's a library, not a framework (hello angular).
 - Learned that react.js with context and hooks is now "complete".
 - Avoided Redux for most projects because of the restrictions and did not need the benefits of it.
 - Learned that Web development is in a transition phase right now, with a lot of complexity.
@@ -128,7 +128,7 @@ _Junior Software Engineer_
 
 ### Flutter
 
-- I'm always sceptical about (leaky) abstractions, but Flutter works and it is nice to have one code to rule them all.
+- I'm always skeptical about (leaky) abstractions, but Flutter works and it is nice to have one code to rule them all.
 
 ### Deprecated
 
@@ -140,7 +140,7 @@ _Junior Software Engineer_
 
 - Mostly in C#.
 - Started with Version 1.1, now .net Core 3.x
-- Really liked the path C# took, from Generics (that's a must), LINQ (declerative querying), nice async handling (all over the place now).
+- Really liked the path C# took, from Generics (that's a must), LINQ (declarative querying), nice async handling (all over the place now).
 
 ### ASP.NET
 
@@ -149,13 +149,13 @@ _Junior Software Engineer_
 
 ### Docker
 
-- Write dockerfiles to encapsulate applications (to move between hosting platforms, for faster auto scaling)
+- Write docker files to encapsulate applications (to move between hosting platforms, for faster auto-scaling)
 - Used as build platform in ci scenarios.
 
 ### Worth mentioning
 
-- Worked on projects (some shiped) with Ruby (with and without Rails) and
-- Go (I like the lightning fast compile times).
+- Worked on projects (some shipped) with Ruby (with and without Rails) and
+- Go (I like the lightning-fast compile times).
 
 # Education
 
@@ -164,9 +164,9 @@ Level 6 of the European Qualifications Framework.
 
 # Extracurricular Activity
 
-- Cert. Trainer of adult education (pending; Abschluss im September)
+- Cert. Trainer of adult education (pending; finished in September)
 - Rhetoric and presentation 2014 + 2015
-- dccs management training 2013-2014
+- Dccs management training 2013-2014
 - PMI project management training
 - R Programming (online, Johns Hopkins University) 23. Mai 2016
 - Machine Learning (online, Stanford University)
