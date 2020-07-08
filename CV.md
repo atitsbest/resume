@@ -1,4 +1,4 @@
-# About me
+# Stephan Meißner
 
 I have been around for some time engineering and shipping software, working with may customers of different domains.
 I love forming a team for the task at hand, not only managing bits but also humans (as big problems are mostly not technicaly in nature).
@@ -164,10 +164,10 @@ Level 6 of the European Qualifications Framework.
 
 # Extracurricular Activity
 
-- Dipl. Trainer in der Erwachsenenbildung (pending; Abschluss im September)
-- Rhetorik und Präsentation 2014 + 2015
-- Führungskräfte Training 2013-2014
-- Projektmanagement Ausbildung
+- Cert. Trainer of adult education (pending; Abschluss im September)
+- Rhetoric and presentation 2014 + 2015
+- dccs management training 2013-2014
+- PMI project management training
 - R Programming (online, Johns Hopkins University) 23. Mai 2016
 - Machine Learning (online, Stanford University)
 
