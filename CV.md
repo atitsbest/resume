@@ -19,7 +19,15 @@ _Development Manager (project work)_
 
 - Supported sales a lot in the pre-sales phase.
 
-_Some customers I have worked with (alphabetical order):_
+_Some customers, I have worked with:_
+
+### Veritas
+
+- Provisioned a scalable and resilient infrastructure (Amazon AWS) utilizing Docker and Fargate (and VPC, Subnets, VPN, SQS, Lambda Functions, ...).
+- Build a fully automated CI/CD pipeline using BitBucket and AWS CodeBuild and CodePipeline.
+- Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
+- Consulted on Domain Driven Design for an upcoming large scale project.
+- Execute software integration strategy.
 
 ### Daimler
 
@@ -31,7 +39,7 @@ _Some customers I have worked with (alphabetical order):_
 ### Felbermayr:
 
 - Build a fully automated CI/CD pipeline for new and existing projects.
-- Designed and developed a mobile App using Flutter and the inherent WebService using Docker for linux.
+- Designed and developed a mobile app using Flutter and the inherent WebService using Docker for Linux.
 - Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
 
 ### Liebherr
@@ -49,13 +57,6 @@ _Some customers I have worked with (alphabetical order):_
 
 - Build/Designed Backend Software for massive Ecommerce Frontend to support merchants in multiple countries using ASP.Net MVC and Knockout.JS
 - Modernized highly customizable legacy Ecommerce Frontend (design and development) to look and feel modern and trustworthy, without changing the complex markup/javascript.
-
-### Veritas
-
-- Provisioned a scalable and resilient infrastructure (Amazon AWS) utilizing Docker and Fargate (and VPC, Subnets, VPN, SQS, Lambda Functions, ...).
-- Build a fully automated CI/CD pipeline using BitBucket and AWS CodeBuild and CodePipeline.
-- Consulted on Domain Driven Design for an upcoming large scale project.
-- Execute software integration strategy.
 
 ## Infoniqa GmbH 2007 - 2013
 
@@ -115,11 +116,11 @@ _Junior Software Engineer_
 
 - Learned that react.js with context and hooks is now "complete" and does not need much extra state management.
 - Avoided Redux for most projects because of the restrictions it implies and did not need the benefits of it.
-- Learned that Web development is in a transition phase right now, with a lot of complexity.
+- Accelerated SPA development by curating an efficient set of libs and conventions around React.js.
 
 ### Typescript
 
-- JavaScript is not suited for medium to large scale programs. Never was intended to be. Typescript is.
+- Campaigned that JavaScript is not suited for medium to large scale programs. Never was intended to be. Typescript is.
 
 ### CSS
 
