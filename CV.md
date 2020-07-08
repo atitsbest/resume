@@ -42,7 +42,7 @@ _Some customers, I have worked with:_
 - Designed and developed a mobile app using Flutter and the inherent WebService using Docker for Linux.
 - Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
 
-### Liebherr
+### Liebherr EMT
 
 - Executed Requirements Engineering Workshops spaning employees from multiple locations.
 - Architectured Software to integrate into the existing Software landscape.
@@ -53,7 +53,7 @@ _Some customers, I have worked with:_
 - Designed UI proposal for "sales of the future" project using react.js.
 - Diagnosed blocking nontechnical issues and helped resolve them in multiple workshops with the customer.
 
-### Trodat:
+### Trodat GmbH
 
 - Build/Designed Backend Software for massive Ecommerce Frontend to support merchants in multiple countries using ASP.Net MVC and Knockout.JS
 - Modernized highly customizable legacy Ecommerce Frontend (design and development) to look and feel modern and trustworthy, without changing the complex markup/javascript.
@@ -68,16 +68,16 @@ _Some customers I have worked with (alphabetical order):_
 
 - Developed a mobile handheld scanner to aid assembly line production using Windows CE scanner devices.
 
-### Doppelmayr
+### Doppelmayr GmbH
 
 - Headed a project to simulate big industrial facilities. Delivered the working software after other companies failed.
 
-### Intersport
+### INTERSPORT Austria GmbH
 
 - Developed Software to aid all members in stocking their stores using ASP.Net MVC and AS400 DB2.
 - Pioneered Single Page App like Web Apps before they were called that way.
 
-### Hauser
+### HAUSER Kühlmöbel & Kältetechnik GmbH
 
 (produces cooling machines for retail and wholesale):
 
