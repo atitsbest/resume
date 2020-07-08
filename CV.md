@@ -30,9 +30,9 @@ _Some customers I have worked with (alphabetical order):_
 
 ### Felbermayr:
 
-- Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
 - Build a fully automated CI/CD pipeline for new and existing projects.
 - Designed and developed a mobile App using Flutter and the inherent WebService using Docker for linux.
+- Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
 
 ### Liebherr
 
@@ -113,9 +113,8 @@ _Junior Software Engineer_
 
 ### React.js
 
-- It's a library, not a framework (hello angular).
-- Learned that react.js with context and hooks is now "complete".
-- Avoided Redux for most projects because of the restrictions and did not need the benefits of it.
+- Learned that react.js with context and hooks is now "complete" and does not need much extra state management.
+- Avoided Redux for most projects because of the restrictions it implies and did not need the benefits of it.
 - Learned that Web development is in a transition phase right now, with a lot of complexity.
 
 ### Typescript
