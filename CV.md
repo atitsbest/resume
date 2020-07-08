@@ -1,7 +1,7 @@
 # Stephan Meißner
 
 I have been around for some time engineering and shipping software, working with may customers of different domains.
-I love forming a team for the task at hand, not only managing bits but also humans (as big problems are mostly not technical).
+Programming is what I love and forming a team for the task at hand, not only managing bits but also humans (as big problems are mostly not technical).
 
 # Experience
 
@@ -36,7 +36,7 @@ _Some customers, I have worked with:_
 - Developed frontend for large scale React.js web app, handling TBs of data on the backend.
 - Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
 
-### Felbermayr:
+### Felbermayr
 
 - Build a fully automated CI/CD pipeline for new and existing projects.
 - Designed and developed a mobile app using Flutter and the inherent WebService using Docker for Linux.
