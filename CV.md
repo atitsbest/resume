@@ -122,7 +122,7 @@ _Junior Software Engineer_
 
 ### Java-/TypeScript
 
-- Programmed JavaScript for around 15 years now...
+- Programmed JavaScript for around 15 years now...did "object-orientation" in JS, prototype-orientation, functional programming.
 - Campaigned that JavaScript is not suited for medium to large scale programs. Never was intended to be. Typescript is.
 
 ### CSS
