@@ -23,7 +23,7 @@ _Some customers, I have worked with:_
 
 ### Veritas
 
-- Provisioned a scalable and resilient infrastructure (Amazon AWS) utilizing Docker and Fargate (and VPC, Subnets, VPN, SQS, Lambda Functions, ...).
+- Provisioned a scalable and resilient infrastructure (Amazon AWS) utilizing Terraform and Docker and Fargate (and VPC, Subnets, VPN, SQS, Lambda Functions, ...).
 - Build a fully automated CI/CD pipeline using BitBucket and AWS CodeBuild and CodePipeline.
 - Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
 - Consulted on Domain Driven Design for an upcoming large scale project.
