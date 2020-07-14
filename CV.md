@@ -13,7 +13,7 @@ _Development Manager (project work)_
 
 - Pioneered/Contributed to Open Source Software on GitHub (https://github.com/DCCS-IT-Business-Solutions) resulting in reduced costs and motivated software engineers.
 
-- Established knowledge exchange across multiple teams using recurrent meetings and workshops
+- Established knowledge exchange across multiple teams using recurrent meetings, workshops, rfc, ...
 
 - Initiated and fostered internship resulting in a 90% return rate of interns (and some terrific new colleagues).
 
