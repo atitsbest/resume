@@ -1,8 +1,6 @@
 # Stephan Meißner
 
-Full-Stack Developer, Engineer Manager, ...
-
-I have been around for some time engineering and shipping software, working with may customers of different domains.
+I have been around for some time engineering and shipping software, successfully working with may customers of different domains.
 Programming is what I love and forming a team for the task at hand, not only managing bits but also humans (as big problems are mostly not technical).
 
 # Experience
