@@ -1,5 +1,7 @@
 # Stephan Meißner
 
+Full-Stack Developer, Engineer Manager, ...
+
 I have been around for some time engineering and shipping software, working with may customers of different domains.
 Programming is what I love and forming a team for the task at hand, not only managing bits but also humans (as big problems are mostly not technical).
 
@@ -110,7 +112,7 @@ _Junior Software Engineer_
 - Conducted workshops for modern web development (backend and frontend).
 - Executed Requirements engineering workshops for solid specifications.
 
-## Frontend
+## Software
 
 ### React.js
 
@@ -118,8 +120,9 @@ _Junior Software Engineer_
 - Learned that react.js with context and hooks is now "complete" and does not need much extra state management.
 - Accelerated SPA development by curating an efficient set of libs and conventions around React.js.
 
-### Typescript
+### Java-/TypeScript
 
+- Programmed JavaScript for around 15 years now...
 - Campaigned that JavaScript is not suited for medium to large scale programs. Never was intended to be. Typescript is.
 
 ### CSS
