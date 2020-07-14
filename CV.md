@@ -98,7 +98,7 @@ _One of two CEOs ;)_
 
 - Engineered a custom kind of Facebook for a customer using ASP.NET WebForms. Translated in to 30+ languages. Deployed to multiple countries.
 
-## Funworld 2000 - 20002
+## Funworld 2000 - 2002
 
 _Junior Software Engineer_
 
