@@ -165,7 +165,7 @@ Level 6 of the European Qualifications Framework.
 
 # Extracurricular Activity
 
-- Cert. Trainer of adult education (pending; finished in September)
+- Cert. Trainer of adult education
 - Rhetoric and presentation 2014 + 2015
 - Dccs management training 2013-2014
 - PMI project management training
