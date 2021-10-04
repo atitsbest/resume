@@ -141,7 +141,7 @@ _Junior Software Engineer_
 ### .Net/.Net Core
 
 - Mostly in C#.
-- Started with Version 1.1, now .net Core 3.x
+- Started with Version 1.1 passing .Net Core 3.x, heading towards .Net 6.
 - Liked the path C# took, from Generics (that's a must), LINQ (declarative querying), nice async handling (all over the place now).
 
 ### ASP.NET
