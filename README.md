@@ -82,7 +82,7 @@ _Some customers I have worked with (alphabetical order):_
 
 (produces cooling machines for retail and wholesale):
 
-- Developed Web Application for disposition of finished products and parts using MonoRail and custom made OR-Mapper.
+- Developed Web Application for disposition of finished products and parts using MonoRail and custom made OR-Mapper (still running strong).
 - Maintained/Extended capacity planning software for production.
 
 ## Nexon GmbH 2002 - 2007
