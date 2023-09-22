@@ -1,13 +1,13 @@
 # Stephan Meißner
 
 I have been around for some time engineering and shipping software, successfully working with may customers of different domains.
-Programming is what I love and forming a team for the task at hand, not only managing bits but also humans (as big problems are mostly not technical).
+Programming is what I love and forming a team for the task at hand, not only managing bits but also humans.
 
 # Experience
 
 ## DCCS IT Business Solutions 2013 - …
 
-_Development Manager (project work)_
+_Engineering Lead (project work)_
 
 - Pioneered/Contributed to Open Source Software on GitHub (https://github.com/DCCS-IT-Business-Solutions) resulting in reduced costs and motivated software engineers.
 
@@ -20,6 +20,12 @@ _Development Manager (project work)_
 - Supported sales a lot in the pre-sales phase.
 
 _Some customers, I have worked with:_
+
+### Voestalpine Böhler Welding
+
+- Designed a Linux-based harware box (IIOT) to coordinate welding devices on site using MQTT, React-Native (for the bundled mobile app), weldig machine simulators, etc. The box is headless yet still fully upgradeable incl. the os.
+- Engineered the box with all the apps together with my team. 
+- Made the box ready for the market.
 
 ### Veritas
 
