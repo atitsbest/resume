@@ -1,183 +1,144 @@
-# Stephan Meißner
-
-I have been around for some time engineering and shipping software, successfully working with may customers of different domains.
-Programming is what I love and forming a team for the task at hand, not only managing bits but also humans.
-
-# Experience
-
-## DCCS IT Business Solutions 2013 - …
-
-_Engineering Lead (project work)_
-
-- Pioneered/Contributed to Open Source Software on GitHub (https://github.com/DCCS-IT-Business-Solutions) resulting in reduced costs and motivated software engineers.
-
-- Established knowledge exchange across multiple teams using recurrent meetings, workshops, rfc, ...
-
-- Initiated and fostered internship resulting in a 90% return rate of interns (and some terrific new colleagues).
-
-- Advised numerous customers on modern web development (frontend and backend)
-
-- Supported sales a lot in the pre-sales phase.
-
-_Some customers, I have worked with:_
-
-### Voestalpine Böhler Welding
-
-- Designed a Linux-based harware box (IIOT) to coordinate welding devices on site using MQTT, React-Native (for the bundled mobile app), weldig machine simulators, etc. The box is headless yet still fully upgradeable incl. the os.
-- Engineered the box with all the apps together with my team. 
-- Made the box ready for the market.
-
-### Veritas
-
-- Provisioned a scalable and resilient infrastructure (Amazon AWS) utilizing Terraform and Docker and Fargate (and VPC, Subnets, VPN, SQS, Lambda Functions, ...).
-- Engineered synchronisation between legacy and new systems.
-- Build a fully automated CI/CD pipeline using BitBucket and AWS CodeBuild and CodePipeline.
-- Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
-- Consulted on Domain Driven Design for an upcoming large scale project.
-- Execute software integration strategy.
-
-### Daimler
-
-- Executed company-wide onboarding web app, for UX and development.
-- Oversaw development and deployment of the onboarding app.
-- Developed frontend for large scale React.js web app, handling TBs of data on the backend.
-- Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
-
-### Felbermayr
-
-- Build a fully automated CI/CD pipeline for new and existing projects.
-- Designed and developed a mobile app using Flutter and the inherent WebService using Docker for Linux.
-- Coached software Team to develop maintainable software in current technology using .net Core C#, react.js, Typescript.
-
-### Liebherr EMT
-
-- Executed Requirements Engineering Workshops spaning employees from multiple locations.
-- Architectured Software to integrate into the existing Software landscape.
-
-### Mercedes Benz Financial Services
-
-- Oversaw transfer of an existing project (calculate financial products) from a nearshoring team.
-- Designed UI proposal for "sales of the future" project using react.js.
-- Diagnosed blocking nontechnical issues and helped resolve them in multiple workshops with the customer.
-
-### Trodat GmbH
-
-- Build/Designed Backend Software for massive Ecommerce Frontend to support merchants in multiple countries using ASP.Net MVC and Knockout.JS
-- Modernized highly customizable legacy Ecommerce Frontend (design and development) to look and feel modern and trustworthy, without changing the complex markup/javascript.
-
-## Infoniqa GmbH 2007 - 2013
-
-_Software Engineer / Tech Lead (project work)_
-
-_Some customers I have worked with (alphabetical order):_
-
-### Case New Holland
-
-- Developed a mobile handheld scanner to aid assembly line production using Windows CE scanner devices.
-
-### Doppelmayr GmbH
-
-- Headed a project to simulate big industrial facilities. Delivered the working software after other companies failed.
-
-### INTERSPORT Austria GmbH
-
-- Developed Software to aid all members in stocking their stores using ASP.Net MVC and AS400 DB2.
-- Pioneered Single Page App like Web Apps before they were called that way.
-
-### HAUSER Kühlmöbel & Kältetechnik GmbH
-
-(produces cooling machines for retail and wholesale):
-
-- Developed Web Application for disposition of finished products and parts using MonoRail and custom made OR-Mapper (still running strong).
-- Maintained/Extended capacity planning software for production.
-
-## Nexon GmbH 2002 - 2007
-
-_One of two CEOs ;)_
-
-- Developed software to manage real estate offerings using C++ and MFC. Including public online platform to sync to.
-
-- Planned and developed a custom eCommerce system using .Net 2. Used in different industries.
-
-- Developed software to issue and manage free-ride tickets for students. Used by different states in Austria. Developed the banking interface (EDIFACT) to transfer money.
-
-- Engineered a custom kind of Facebook for a customer using ASP.NET WebForms. Translated in to 30+ languages. Deployed to multiple countries.
-
-## Funworld 2000 - 2002
-
-_Junior Software Engineer_
-
-- Developed system software libraries as a base for games running on touch-based game consoles using C++, custom made Windows and custom made hardware.
-
-# Skills
-
-## Humans
-
-- Mentored interns, junior and senior developers to develop their skills.
-- Conducted workshops for modern web development (backend and frontend).
-- Executed Requirements engineering workshops for solid specifications.
-
-## Software
-
-### React.js
-
-- Analyzed other frontend libs/frameworks and choose the React.js - Typescript combination for its type-checked views.
-- Learned that react.js with context and hooks is now "complete" and does not need much extra state management.
-- Accelerated SPA development by curating an efficient set of libs and conventions around React.js.
-
-### Java-/TypeScript
-
-- Programmed JavaScript for around 15 years now...did "object-orientation" in JS, prototype-orientation, functional programming.
-- Campaigned that JavaScript is not suited for medium to large scale programs. Never was intended to be. Typescript is.
-
-### CSS
-
-- Not afraid of good design and style sheets. Can think in flex-box and different types of positioning.
-
-### Flutter
-
-- Evaluated Xamarin and React Native but chose Flutter for its joy of usage (I'm always skeptical about (leaky) abstractions, but Flutter works and it is nice to have one code to rule them all.)
-
-### Deprecated
-
-- Knockout.js, Monorail, Angular 1.x & 2.x, WinForms, WebForms, WPF, WCF, MFC (who still knows this one?)
-
-## Backend
-
-### .Net/.Net Core
-
-- Mostly in C#.
-- Started with Version 1.1 passing .Net Core 3.x, heading towards .Net 6.
-- Liked the path C# took, from Generics (that's a must), LINQ (declarative querying), nice async handling (all over the place now).
-
-### ASP.NET
-
-- Anticipated the change from Web.Forms to MVC and used Monorail-MVC in the meantime.
-- Access different DBs (MS SQL-Server, Oracle, PostgreSQL, AS400 DB2) with appropriate libs (Dapper, Raw, EF (Core))
-
-### Docker
-
-- Write docker files to encapsulate applications (to move between hosting platforms, for faster auto-scaling)
-- Used as build platform in ci scenarios.
-
-### Worth mentioning
-
-- Worked on projects (some shipped) with Ruby (with and without Rails) and
-- Go (I like the lightning-fast compile times).
-
-# Education
-
-HTBLA-Leonding (IT and Business Administration)
-Level 6 of the European Qualifications Framework.
-
-# Extracurricular Activity
-
-- Cert. Trainer of adult education
-- Rhetoric and presentation 2014 + 2015
-- Dccs management training 2013-2014
-- PMI project management training
-- R Programming (online, Johns Hopkins University) 23. Mai 2016
-- Machine Learning (online, Stanford University)
+# **Stephan Meissner**
+
+Experienced software engineer and technical leader with a passion for developing scalable solutions and building high-performing teams. Over 20 years of expertise in full-stack development and software engineering best practices. Proven ability to deliver complex projects on time and mentor teams for long-term success.
+
+---
+
+## **Experience**
+
+### **ChangeRadar GmbH** (2024 - Present)
+**Managing Partner Engineering**
+- Led requirement engineering in close collaboration with customers to ensure alignment with their vision.
+- Designed and implemented the architecture for a cloud-based SaaS solution for Change Management.
+- Coordinated work with freelance co-workers and ensured smooth project execution.
+- Successfully delivered the project on time and within budget using agile methodologies, achieving high customer satisfaction.
+
+### **DCCS IT Business Solutions** (2013 - 2025)
+**Engineering Lead (Project Work) / Team Lead (3-6 Developers)**
+- Led multiple development (international) teams, ensuring best practices and modern development methodologies.
+- Contributed to and pioneered open-source software on GitHub, reducing costs and improving developer engagement.
+- Established knowledge exchange programs across teams through recurrent meetings, workshops, and RFCs.
+- Initiated and fostered an internship program, achieving a 90% retention rate and successfully hiring new colleagues.
+- Advised numerous customers on modern web development (frontend and backend).
+- Provided technical expertise in pre-sales, contributing to increased client acquisitions.
+
+#### **Selected Customer Projects:**
+
+##### **Voestalpine Böhler Welding**
+- Designed a Linux-based industrial IoT (IIoT) hardware box to coordinate welding devices on-site using MQTT, Docker, InfluxDb and React Native.
+- Developed the complete software stack, ensuring seamless integration with international customer teams.
+- Prepared the product for international markets, ensuring compliance with industry standards.
+- Provided mentorship and coaching to developers.
+
+##### **Veritas**
+- Provisioned a scalable and resilient AWS cloud infrastructure using Terraform, Docker, and Fargate.
+- Engineered synchronization between legacy and new systems to ensure data consistency.
+- Built a fully automated CI/CD pipeline using BitBucket, AWS CodeBuild, and CodePipeline.
+- Coached software teams to develop maintainable applications using .NET Core C#, React.js, and TypeScript.
+- Advised on Domain-Driven Design (DDD) for an upcoming large-scale project.
+
+##### **Daimler**
+- Led development of a company-wide onboarding web app, ensuring seamless UX and scalable backend.
+- Developed frontend for a large-scale React.js web app handling terabytes of backend data.
+- Mentored software teams in best practices for .NET Core, React.js, and TypeScript.
+
+#### TGW
+- Created architectural solution merging multiple disparate systems into unified platform
+- Conducted stakeholder interviews to identify system constraints and requirements
+- Presented proposal to executive team, achieving unanimous approval for the project proposal.
+
+##### **Felbermayr**
+- Built a fully automated CI/CD pipeline for new and existing projects.
+- Designed and developed a mobile app using Flutter, integrating it with a Dockerized web service.
+- Provided software development coaching in modern .NET, React.js, and TypeScript.
+
+##### **Liebherr EMT**
+- Led requirements engineering workshops spanning multiple locations.
+- Designed a software architecture to integrate seamlessly into the existing software landscape.
+
+##### **Mercedes Benz Financial Services**
+- Managed the transfer of a critical project from a nearshoring team.
+- Designed a UI proposal for the "Sales of the Future" initiative using React.js.
+- Resolved technical and non-technical blockers through strategic workshops.
+
+##### **Trodat GmbH**
+- Developed backend software for a large-scale eCommerce platform supporting merchants across multiple countries.
+- Modernized a highly customizable legacy eCommerce frontend without disrupting existing functionality.
+
+### **Infoniqa GmbH** (2007 - 2013)
+**Software Engineer / Tech Lead**
+
+##### **Selected Customer Projects:**
+- Led a project to simulate large industrial facilities, delivering a successful implementation after previous attempts had failed.
+- Developed a mobile handheld scanner system for assembly line production using Windows CE.
+- Built an ASP.NET MVC solution for inventory management across INTERSPORT Austria's retail network.
+- Pioneered early Single Page Application (SPA) development before mainstream adoption.
+
+### **Nexon GmbH** (2002 - 2007)
+**Co-Founder / CEO**
+- Developed a real estate management platform using C++ and MFC.
+- Designed and implemented a custom .NET 2.0 eCommerce system used across various industries.
+- Created a ticket management system for free-ride student passes, integrating EDIFACT-based banking transactions.
+- Developed a multilingual social networking platform deployed across 30+ countries.
+
+### **Funworld** (2000 - 2002)
+**Junior Software Engineer**
+- Developed system-level software libraries for touch-based gaming consoles using C++.
+- Engineered custom Windows-based software for game hardware.
+
+---
+
+## **Skills**
+
+### **Leadership & Mentoring**
+- Mentored interns, junior, and senior developers to develop their skills.
+- Conducted workshops on modern web and software development (frontend and backend).
+- Led requirements engineering workshops to define clear and actionable software specifications.
+
+### **Frontend Development**
+- Expertise in React.js and TypeScript for scalable, maintainable SPAs.
+- Strong knowledge of CSS, including Flexbox and responsive design principles.
+- Experienced with Flutter/react-native for cross-platform mobile development.
+
+### **Backend & Cloud Development**
+- Extensive experience with .NET Core / C# for backend APIs and microservices.
+- Designed cloud-native solutions using AWS (Terraform, Docker, Lambda, SQS, etc.).
+- Built and optimized CI/CD pipelines for automated deployments.
+
+### **DevOps & Infrastructure**
+- Skilled in Docker for containerized application deployment.
+- Proficient in infrastructure-as-code using Terraform.
+- Experienced in CI/CD automation for scalable cloud applications.
+
+### **Additional Expertise**
+- Hands-on experience with PostgreSQL, MS SQL Server, Oracle, and DB2.
+- Early adopter of modern development frameworks and methodologies.
+- Professionally used C++ and Ruby on Rails.
+- Past experience with legacy technologies (WinForms, ASP.NET WebForms, WPF, Knockout.js, Angular 1.x & 2.x).
+
+---
+
+## **Education**
+HTBLA-Leonding (IT and Business Administration)  
+**Level 6 of the European Qualifications Framework**
+
+---
+
+## **Certifications & Training**
+- Certified Trainer for Adult Education
+- PMI Project Management Training
+- DCCS Management Training (2013-2014)
+- R Programming (Johns Hopkins University, 2016)
+- Machine Learning (Stanford University, Online)
+- Rhetoric & Presentation Training (2014 & 2015)
+
+---
+
+## **Extracurricular Activities**
+- Contributor to open-source projects.
+- Speaker at developer conferences and community meetups.
+
+---
 
 # Contact
 
@@ -187,7 +148,4 @@ Am Weinberg 5
 AUSTRIA
 
 - Email: atitsbest@fastmail.com
-- Phone: +43 (0)699 19396316
-
-- Github (professional): https://github.com/DCCS-IT-Business-Solutions
-- Github (personal): https://github.com/atitsbest
+- Phone: +43 (0)670 5050391
