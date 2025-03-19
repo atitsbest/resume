@@ -100,7 +100,7 @@ Erfahrener Software Engineer und technischer Leiter mit einer Leidenschaft für 
 - React.js & TypeScript für skalierbare SPAs.
 - Cloud-native Lösungen mit AWS, Terraform, Docker & Kubernetes.
 - CI/CD-Pipelines für automatisierte Bereitstellungen.
-
+- Fokus auf Clean Architecture, SOLID-Prinzipien und bewährte Software-Patterns für wartbare und skalierbare Anwendungen.
 ---
 
 ## **Ausbildung**
