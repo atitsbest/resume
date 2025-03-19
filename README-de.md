@@ -14,7 +14,7 @@ Erfahrener Software Engineer und technischer Leiter mit einer Leidenschaft für 
 - Erfolgreiche termingerechte und budgetkonforme Umsetzung des Projekts unter Anwendung agiler Methoden mit hoher Kundenzufriedenheit.
 
 ### **DCCS IT Business Solutions** (2013 - 2025)
-**Engineering Lead (Projektarbeit) / Teamleiter (3-6 Entwickler)**
+**Engineering Lead (Projektarbeit) / Technischer Teamleiter (3-6 Entwickler)**
 - Leitung mehrerer internationaler Entwicklungsteams unter Anwendung moderner Methoden und Best Practices.
 - Aktive Beiträge zu Open-Source-Software auf GitHub zur Kostensenkung und Steigerung der Entwicklerbindung.
 - Etablierung von Wissenstransferprogrammen durch regelmäßige Meetings, Workshops und RFCs.
@@ -26,7 +26,7 @@ Erfahrener Software Engineer und technischer Leiter mit einer Leidenschaft für 
 
 ##### **Voestalpine Böhler Welding**
 - Entwicklung einer Linux-basierten Industrial IoT (IIoT) Hardware-Box zur Koordination von Schweißgeräten vor Ort mit MQTT, Docker, InfluxDB und React Native.
-- Umsetzung der gesamten Softwarearchitektur mit internationaler Team-Integration.
+- Umsetzung der gesamten Softwarearchitektur mit einem internationalem Team.
 - Vorbereitung des Produkts für internationale Märkte unter Berücksichtigung industrieller Standards.
 - Mentoring und Coaching für Entwickler.
 
@@ -38,7 +38,7 @@ Erfahrener Software Engineer und technischer Leiter mit einer Leidenschaft für 
 - Beratung zu Domain-Driven Design (DDD) für ein groß angelegtes Projekt.
 
 ##### **Daimler**
-- Leitung der Entwicklung einer unternehmensweiten Onboarding-Web-App mit optimaler UX und skalierbarem Backend.
+- Leitung der Entwicklung einer unternehmensweiten Onboarding-Web-App mit Fokus auf UX und skalierbarem Backend.
 - Entwicklung des Frontends einer groß angelegten React.js-Web-App zur Verarbeitung von Terabytes an Backend-Daten.
 - Mentoring von Softwareteams in Best Practices für .NET Core, React.js und TypeScript.
 
@@ -63,7 +63,7 @@ Erfahrener Software Engineer und technischer Leiter mit einer Leidenschaft für 
 
 ##### **Trodat GmbH**
 - Entwicklung von Backend-Software für eine groß angelegte E-Commerce-Plattform mit internationaler Marktabdeckung.
-- Modernisierung eines hochgradig anpassbaren Legacy-Frontends ohne Unterbrechung der bestehenden Funktionen.
+- Modernisierung eines hochgradig anpassbaren Legacy-Frontends ohne die bestehenden Funktionen zu beeinträchtigen.
 
 ### **Infoniqa GmbH** (2007 - 2013)
 **Software Engineer / Tech Lead**
@@ -96,11 +96,11 @@ Erfahrener Software Engineer und technischer Leiter mit einer Leidenschaft für 
 - Durchführung von Anforderungsmanagement-Workshops.
 
 ### **Softwareentwicklung**
-- React.js & TypeScript für skalierbare SPAs.
 - .NET Core / C# für Backend-APIs und Microservices.
+- React.js & TypeScript für skalierbare SPAs.
 - Cloud-native Lösungen mit AWS, Terraform, Docker & Kubernetes.
 - CI/CD-Pipelines für automatisierte Bereitstellungen.
-
+- Fokus auf Clean Architecture, SOLID-Prinzipien und bewährte Software-Patterns für wartbare und skalierbare Anwendungen.
 ---
 
 ## **Ausbildung**

@@ -104,6 +104,7 @@ Experienced software engineer and technical leader with a passion for developing
 - Extensive experience with .NET Core / C# for backend APIs and microservices.
 - Designed cloud-native solutions using AWS (Terraform, Docker, Lambda, SQS, etc.).
 - Built and optimized CI/CD pipelines for automated deployments.
+- Focus on Clean Architecture, SOLID principles, and proven software patterns for maintainable and scalable applications.
 
 ### **DevOps & Infrastructure**
 - Skilled in Docker for containerized application deployment.
